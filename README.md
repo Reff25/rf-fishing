@@ -1,7 +1,7 @@
--- ================================= --
+
 -- rf-fishing ITEMS 
 -- Credits: Reff25 | Discord: https://discord.gg/CwjJxpcfUH
--- ================================= --
+
 
 ## Requirements
 
